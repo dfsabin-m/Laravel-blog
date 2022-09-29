@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#ul_top_hypers li{
+    display: inline;
+}
